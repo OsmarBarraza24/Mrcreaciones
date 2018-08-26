@@ -74,10 +74,11 @@ transform: scale(1.03);
 
   @media (max-width:800px){ 
     .img{
-        height:100px;
+        width: 400px;
+    height: 250px;
     }
     .images{
-        width: 150;
-    height: 50px;
+        width: 400px;
+        height: 250px;
     }
 }
