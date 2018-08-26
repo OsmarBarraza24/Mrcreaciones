@@ -1,0 +1,70 @@
+body{
+    background: white;
+
+}
+
+div > h1 + p{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+div > h2{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.h2{
+    text-decoration: underline;
+}
+
+.img{
+    height: 450px;
+    transition: 500ms;
+}
+
+.this{
+    height: 316px;
+    width: 550px;
+}
+
+div > p{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.img:hover{
+    transform:scale(1.03);
+}
+
+.logo{
+    width: 50px;
+    height: 45px;
+}
+
+.box{
+    margin: 35px;
+}
+
+.container-flex{
+display:flex;
+flex-wrap: wrap;
+align-content: space-around;
+}
+
+.images{
+    width: 500px;
+    height: 300px;
+    margin: 5px;
+    transition: 500ms;
+}
+
+.images:hover{
+transform: scale(1.03);
+}
+
+#footer {
+    background: #333333;
+    padding: 60px 0 40px;
+    color: white;
+  }
