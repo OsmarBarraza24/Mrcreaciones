@@ -5,16 +5,16 @@ body{
 
 }
 
-@media (max-width:600px){ 
+@media (max-width:800px){ 
     .img{
     width: 300px;
     height: 150px;
-    align-content: center;
+    
     }
     .images{
         width: 300px;
         height: 150px;
-        align-content: center;
+    
     }
 }
 div > h1 + p{
