@@ -1,8 +1,4 @@
-@media (max-width:800px){ 
-    .img{
-        height:100px;
-    }
-}
+
 
 
 body{
@@ -75,3 +71,13 @@ transform: scale(1.03);
     padding: 60px 0 40px;
     color: white;
   }
+
+  @media (max-width:800px){ 
+    .img{
+        height:100px;
+    }
+    .images{
+        width: 150;
+    height: 50px;
+    }
+}
