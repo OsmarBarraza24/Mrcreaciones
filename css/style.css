@@ -6,15 +6,10 @@ body{
 }
 
 @media (max-width:800px){ 
-    .img{
-    height: 150px;
-    
-    }
-    .images{
-        width: 250px;
-        height: 150px;
-    
-    }
+ img{
+     width: 250px;
+     height: 150px;
+ }
 }
 div > h1 + p{
     font-family: 'Nanum Gothic', sans-serif;
