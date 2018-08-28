@@ -1,16 +1,7 @@
-
-
 body{
     background: white;
-
 }
 
-@media (max-width:800px){ 
- img{
-     width: 250px;
-     height: 150px;
- }
-}
 div > h1 + p{
     font-family: 'Nanum Gothic', sans-serif;
 }
@@ -77,3 +68,17 @@ transform: scale(1.03);
     color: white;
   }
 
+  @media (max-width:600px){ 
+    .img{
+    height: 250px;
+    width: 370px;
+    align-content: center;
+    
+    }
+    .images{
+        width: 370px;
+        height: 250px;
+        align-content: center;
+    
+    }
+  }
