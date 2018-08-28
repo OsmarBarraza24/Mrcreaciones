@@ -68,17 +68,18 @@ transform: scale(1.03);
     color: white;
   }
 
-  @media (max-width:600px){ 
+  @media (max-width:8000px){ 
+    
     .img{
     height: 250px;
     width: 370px;
-    align-content: center;
+   justify-content: center;
     
     }
     .images{
         width: 370px;
         height: 250px;
-        align-content: center;
+        justify-content: center;
     
     }
   }
