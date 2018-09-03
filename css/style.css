@@ -68,7 +68,7 @@ transform: scale(1.03);
     color: white;
   }
 
-  @media (max-width:600px){   
+  @media (max-width:667px){   
     .img{
     height: 250px;
     width: 370px;
