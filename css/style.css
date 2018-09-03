@@ -64,12 +64,11 @@ transform: scale(1.03);
 
 #footer {
     background: #333333;
-    padding: 60px 0 40px;
+    padding: 20px 0 15px;
     color: white;
   }
 
-  @media (max-width:8000px){ 
-    
+  @media (max-width:600px){   
     .img{
     height: 250px;
     width: 370px;
